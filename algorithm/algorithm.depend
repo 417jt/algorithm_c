@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1612321114 source:d:\study\gitproject\gitalgorithm\algorithm\main.c
+	"linklist.c"
+	<stdlib.h>
+
+1610964086 d:\study\gitproject\gitalgorithm\algorithm\linklist.h
+	<stdio.h>
+	<stdlib.h>
+
+1611821652 d:\study\gitproject\gitalgorithm\algorithm\linklist.c
+	"linklist.h"
+
